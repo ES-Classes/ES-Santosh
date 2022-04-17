@@ -1,2 +1,2 @@
-WorkShop';
-// name = `JavaScript WorkShop`;
+= factorial(3);
+console.log(ans);
